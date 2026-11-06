@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">🙋‍♂️ Hi, I'm Brian! Information Systems student from Brazil 🇧🇷, working toward becoming a Full Stack Developer.<br><br>· 🔭 Currently learning: C, Java and PHP/HTML/CSS (Laravel is next) · 🛠️ Tools: Git, GitHub, VS Code, SQLite · 💻 Building small projects to practice, like a to-do list app with PHP<br><br>📫 How to reach me? · Email · LinkedIn · Instagram</p>
+<p data-importer="text" align="left">- 🇧🇷 Brian, an Information Systems student from Brazil.<br>· 🚀 | Passionate about technology, programming, and problem-solving.<br>· 🎯 | Working toward my dream: becoming a Full Stack Developer.<br><br>- 🔭 What am I currently working on?<br>· 🌱 | Learning C, Java, and PHP/HTML/CSS, and exploring programming fundamentals.<br>· 🧠 | Improving my logic and problem-solving skills (arrays, pointers, and memory in C).<br>· 💻 |  Building small projects to turn knowledge into practice, like my [ToDoList] 👉(https://github.com/brianlvdev/TasksListUPDATE.git) <br> · ( Web app with PHP and SQLite. )</p>
 
 ###
 
