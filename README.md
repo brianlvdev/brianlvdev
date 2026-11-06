@@ -36,19 +36,15 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianlvdev/brianlvdev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianlvdev/brianlvdev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brianlvdev/brianlvdev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/brianlvdev/brianlvdev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 data-importer="text" align="center">📫 How to reach me?</h2>
+<h2 data-importer="text" align="left">📫 How to reach me?</h2>
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="brianlucasvianna@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=-%20Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
@@ -61,28 +57,6 @@
   <a href="https://discord.com/users/404755173655707648" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20-%20Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="35" alt="vscode logo"  />
-  <img width="50" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35" alt="java logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="35" alt="sqlite logo"  />
 </div>
 
 ###
