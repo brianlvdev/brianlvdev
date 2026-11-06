@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🇧🇷 Brian, an Information Systems student from Brazil in Federal University of Santa Maria (UFSM).<br>· 🚀 | Passionate about technology, programming, and problem-solving.<br>· 🎯 | Working toward my dream: becoming a Full Stack Developer.<br><br>- 🔭 What am I currently working on?<br>· 🌱 | Learning C, Java, and PHP/HTML/CSS, and exploring programming fundamentals.<br>· 🧠 | Improving my logic and problem-solving skills (arrays, pointers, and memory in C).<br>· 💻 |  Building small projects to turn knowledge into practice, like my [ToDoList] 👉(https://github.com/brianlvdev/TasksListUPDATE.git) <br> · ( Web app with PHP and SQLite. )</p>
+<p data-importer="text" align="left">🇧🇷 Information Systems student from Brazil, currently studying at UFSM.<br><br>I'm learning my way through programming, mostly working with C, Java, PHP, HTML and CSS. My goal is to become a Full Stack Developer.<br><br>🔭 What I'm up to<br><br>-  Exploring programming concepts<br>- Learning Java and experimenting with web development.<br>- Building small projects as I learn.<br>- Working toward becoming a Full Stack Developer.</p>
 
 ###
 
